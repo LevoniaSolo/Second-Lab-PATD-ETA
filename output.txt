@@ -1,0 +1,15 @@
+MutableArraySequence created.
+ImmutableListSequence 2 created.
+Element 10 appended.
+Element 20 appended.
+Element 30 prepended.
+Element 15 inserted at index 1.
+Length: 3
+Length: 1
+First element: 10
+Last element: 30
+Element at index 1: 15
+Subsequence: 10 15 
+Sequences concatenated. Length: 4
+Sequence 1 deleted.
+Sequence 2 deleted.
